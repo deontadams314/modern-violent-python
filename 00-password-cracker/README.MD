@@ -24,15 +24,17 @@ A lightweight, fast, and flexible password cracker built for CTFs, pentesting, a
 ```bash
 git clone https://github.com/yourusername/yourrepo.git
 cd yourrepo
+```
 
 ### 2. Set Up a Virtual Environment
-```
+
+```bash
 python3 -m venv venv
 source venv/bin/activate  # On macOS/Linux
 ```
 
-###  Install Dependencies
+###  3. Install Dependencies
 
-```
+```bash
 pip install -r requirements.txt
 ```
