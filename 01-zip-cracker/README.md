@@ -47,4 +47,3 @@ Sample Output
 A Python 3+ repo focused on rebuilding classic offensive security tools using modern techniques.
 
 > [← Back to main repo](../README.md)  
-> [See all modernized tools](../.)
