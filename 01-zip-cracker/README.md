@@ -38,12 +38,6 @@ Sample Output
 [*] Loaded 235886 passwords. Cracking with 4 workers...
 [+] Password found: letmein123
 ```
-
 ---
-
-## 📁 This is part of:
-
-**Modern Violent Python**  
-A Python 3+ repo focused on rebuilding classic offensive security tools using modern techniques.
 
 > [← Back to main repo](../README.md)  
