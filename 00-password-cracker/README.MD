@@ -38,3 +38,9 @@ source venv/bin/activate  # On macOS/Linux
 ```bash
 pip install -r requirements.txt
 ```
+
+## 🧠 Additional Ideas
+
+- Turn it into a CLI tool with argparse flags (`--dict`, `--threads`, `--save`, etc.)
+- Output results into JSON or CSV
+- Add a progress bar
