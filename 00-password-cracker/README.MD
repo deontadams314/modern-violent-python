@@ -45,3 +45,5 @@ pip install -r requirements.txt
 - Turn it into a CLI tool with argparse flags (`--dict`, `--threads`, `--save`, etc.)
 - Output results into JSON or CSV
 - Add a progress bar
+
+> [← Back to main repo](../README.md)  
