@@ -32,7 +32,7 @@ def testPass(user, cryptPass):
                 try:
                     if pwd_context.verify(word, cryptPass):
                         hash_type = pwd_context.identify(cryptPass)
-                        return f"[+] Found Password For {user}: {word}  [Hash type: {hash_type}]\n"
+                        return f"[+] Found Password For [User: {user}] [Password: {word}]  [Hash type: {hash_type}]\n"
                 except Exception:
                         continue
         return f"[-] Password Not Found for {user}"
