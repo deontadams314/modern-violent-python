@@ -1,5 +1,3 @@
-![ZipCrack](../assets/zipcrack.png)
-
 # 🔐 ZipCrack — Multi-Process ZIP Password Cracker
 
 **ZipCrack** is a high-performance, Python-based tool for cracking password-protected `.zip` files using a dictionary attack.  
