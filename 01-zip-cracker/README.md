@@ -1,4 +1,4 @@
-![ZipCrack](assets/../zipcrack.png)
+![ZipCrack](../zipcrack.png)
 
 # 🔐 Zip Cracker — Multi-Process ZIP Password Cracker
 
@@ -48,5 +48,5 @@ Sample Output
 **Modern Violent Python**  
 A Python 3+ repo focused on rebuilding classic offensive security tools using modern techniques.
 
-> [← Back to main repo](../..)  
-> [See all modernized tools](../..)
+> [← Back to main repo](../README.md)  
+> [See all modernized tools](../.)
