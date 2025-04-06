@@ -1,4 +1,4 @@
-![ZipCrack](assets/zipcrack.png)
+![ZipCrack](assets/../zipcrack.png)
 
 # 🔐 Zip Cracker — Multi-Process ZIP Password Cracker
 
