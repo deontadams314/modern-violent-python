@@ -1,6 +1,6 @@
 # ⚡ TCP Full Connect Port Scanner
 
-A modern Python-based TCP port scanner with multithreaded scanning, optional banner grabbing, and support for saving results. This tool is designed for speed, flexibility, and ease of use — a perfect blend of practicality and performance.
+A modern Python-based TCP port scanner with multithreaded scanning, optional banner grabbing, and support for saving results.
 
 ---
 
