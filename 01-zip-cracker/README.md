@@ -40,4 +40,10 @@ Sample Output
 ```
 ---
 
+## ⚠️ Legal Notice
+
+This tool is for **educational and authorized testing only**. Do **not** use against systems or networks you do not own or have permission to scan.
+
+---
+
 > [← Back to main repo](../README.md)  
