@@ -1,6 +1,6 @@
 # 🔎 Python Nmap Threaded Port Scanner
 
-A using the `python-nmap` for nmap scans in Python!  
+A using the `python-nmap` library for nmap scans in Python!  
 
 ---
 
